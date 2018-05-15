@@ -1,0 +1,1 @@
+# featured-sectional-for-blog
