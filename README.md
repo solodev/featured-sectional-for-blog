@@ -1,4 +1,7 @@
 # featured-sectional-for-blog
+Your blog is one of the most important elements of your content marketing strategy. Here's how to showcase your blog's content elsewhere on your website to draw more readers to your blog.
+
+If you operate a website, there's a good chance you also operate a blog associated with that website. And if you don't operate a blog, you could be missing out on one of the most profitable and lowest-cost marketing inbound marketing strategies around. 
 
 ## Tutorial		  
 For detailed instruction's, view Solodev's [How to Craft a Featured Sectional for Your Blog](https://www.solodev.com/blog/web-design/how-to-craft-a-featured-sectional-for-your-blog.stml) article.
